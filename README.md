@@ -3,7 +3,8 @@ An end-to-end enterprise data engineering project processing 8.5M+ records throu
 
 ---
 
-https://github.com/Asbadsito/Banking_Analytics_Data/raw/main/Banking_dashboard_demo%20(1).mp4
+<video src="https://github.com/Asbadsito/Banking_Analytics_Data/blob/main/Banking_dashboard_demo%20(1).mp4" controls="controls" style="max-width: 100%;">
+</video>
 
 ---
 
