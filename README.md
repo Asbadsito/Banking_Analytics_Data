@@ -4,5 +4,5 @@ An end-to-end enterprise data engineering project processing 8.5M+ records throu
 ---
 
 ### Project Documentation
-* [Technical Design Document](./docs/Technical_Design_Document.docx) — Architecture choices, scale handling, and pipeline flow.
-* [Data Schema Document](./docs/DATA_SCHEMA.docx) — Relational structure and data schema
+* [Technical Design Document](./Docs/Technical_Design_Document.docx) — Architecture choices, scale handling, and pipeline flow.
+* [Data Schema Document](./Docs/DATA_SCHEMA.docx) — Relational structure and data schema
