@@ -4,5 +4,5 @@ An end-to-end enterprise data engineering project processing 8.5M+ records throu
 ---
 
 ### Project Documentation
-* [Technical Design Document (TDD)](./docs/technical_design_document.md) — Architecture choices, scale handling, and pipeline flow.
-* [Data Schema & ERD Document](./docs/data_schema_and_erd.md) — Relational structure, PII masking rules, and global UUID keys.
+* [Technical Design Document](./docs/Technical_Design_Document.docx) — Architecture choices, scale handling, and pipeline flow.
+* [Data Schema Document](./docs/DATA_SCHEMA.docx) — Relational structure and data rules
