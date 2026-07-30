@@ -3,7 +3,6 @@ An end-to-end enterprise data engineering project processing 8.5M+ records throu
 
 ---
 
-
 ### Project Documentation
-* [Technical Design Document](./Banking_Analytics_Data/Docs/Technical_Design_Document.docx) — Architecture choices, scale handling, and pipeline flow.
-* [Data Schema Document](./Banking_Analytics_Data/Docs/DATA_SCHEMA.docx) — Relational structure, PII masking rules, and global UUID keys.
+* [Technical Design Document](https://github.com/Asbadsito/Banking_Analytics_Data/blob/main/Docs/Technical_Design_Document.docx) — Architecture choices, scale handling, and pipeline flow.
+* [Data Schema Document](https://github.com/Asbadsito/Banking_Analytics_Data/blob/main/Docs/DATA_SCHEMA.docx) — Relational structure, PII masking rules, and global UUID keys.
