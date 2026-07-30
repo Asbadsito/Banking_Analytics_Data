@@ -3,6 +3,7 @@ An end-to-end enterprise data engineering project processing 8.5M+ records throu
 
 ---
 
+
 ### Project Documentation
-* [Technical Design Document](./Docs/Technical_Design_Document.docx) — Architecture choices, scale handling, and pipeline flow.
-* [Data Schema Document](./Docs/DATA_SCHEMA.docx) — Relational structure and data schema
+* [Technical Design Document](./Banking_Analytics_Data/Docs/Technical_Design_Document.docx) — Architecture choices, scale handling, and pipeline flow.
+* [Data Schema Document](./Banking_Analytics_Data/Docs/DATA_SCHEMA.docx) — Relational structure, PII masking rules, and global UUID keys.
