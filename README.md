@@ -16,6 +16,12 @@ https://github.com/user-attachments/assets/20027dea-0a6e-4455-a4c2-c294de8f6891
 * [Technical Design Document](https://github.com/Asbadsito/Banking_Analytics_Data/blob/main/Enterprise%20Banking%20Analytics/Docs/Technical_Design_Document.docx) — Architecture choices, scale handling, and pipeline flow.
 * [Data Schema Document](https://github.com/Asbadsito/Banking_Analytics_Data/blob/main/Enterprise%20Banking%20Analytics/Docs/DATA_SCHEMA.docx) — Relational structure and data schema
 
+---
+
+---
+
+<img width="1988" height="1212" alt="Screenshot 2026-07-31 010545" src="https://github.com/user-attachments/assets/80b631e4-d209-4255-9a95-2d5ceeb0fbf3" />
+
 
 ## Dashboard Preview
 
