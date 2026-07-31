@@ -13,12 +13,6 @@ https://github.com/user-attachments/assets/20027dea-0a6e-4455-a4c2-c294de8f6891
 
 
 
-
----
-
-
----
-
 ---
 
 <img width="1988" height="1212" alt="Screenshot 2026-07-31 010545" src="https://github.com/user-attachments/assets/80b631e4-d209-4255-9a95-2d5ceeb0fbf3" />
