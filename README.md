@@ -1,5 +1,5 @@
 # Banking_Analytics_Data
-An end-to-end enterprise data engineering project processing 8.5M+ records through a Databricks Medallion architecture using PySpark and Delta Lake. It transforms PII-masked banking source data into optimized Gold tables, powering an interactive 4-page Power BI dashboard for real-time liquidity, risk, and transactions tracking
+An end-to-end enterprise data engineering project processing 8.5M+ records from a PostgreSQL database through a Databricks Medallion architecture using PySpark and Delta Lake. It transforms banking source data into optimised and cleaned delta silver tables (with personal information masked with a standard S256H hashing), which are later summarised with aggregation as Gold tables, powering an interactive 4-page Power BI dashboard for real-time liquidity, risk, and transactions tracking
 
 ### Project Documentation
 * [Technical Design Document](https://github.com/Asbadsito/Banking_Analytics_Data/blob/main/Enterprise%20Banking%20Analytics/Docs/Technical_Design_Document.docx) — Architecture choices, scale handling, and pipeline flow.
